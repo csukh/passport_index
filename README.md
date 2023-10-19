@@ -1,6 +1,6 @@
 Basically a wayto rank the world's passports... 
 
-## Setup:
+## Setup: 🔧
   conda create -n <env name> --file requirements.txt
-## Notes:
+## Notes: 🖋️
   This code probably doesnt work right now :/
